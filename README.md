@@ -1,6 +1,7 @@
 # Py_Viz
 
 * Repository 소개
+    - 링크 : https://github.com/MrKevinNa/Py_Viz
     - Python으로 데이터프레임을 다루는 색다른 방법을 소개합니다.
     - Python으로 단계구분도(Choropleth)를 그리는 방법을 소개합니다.
 
@@ -9,8 +10,7 @@
     - Windows : 'C:/Users/Username/Documents/Py_Viz'
     - MacOS : '/Users/Username/Documents/Py_Viz'
 
-* 주피터 노트북과 공개된 데이터셋을 아래 깃허브 저장소로 이동하여 압축(zip) 파일로 내려받으세요.
-    - 링크 : https://github.com/MrKevinNa/Py_Viz
+* 주피터 노트북과 공개된 데이터셋을 압축(zip) 파일로 내려받으세요.
     - 초록색 'Code' 버튼을 클릭하면 압축(zip) 파일로 내려받을 수 있습니다.
     - 압축 파일에는 'bnd', 'jupyter' 등 2개의 폴더가 포함되어 있습니다.
 
