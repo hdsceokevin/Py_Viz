@@ -7,7 +7,7 @@
 
 
 * 작업경로로 사용할 폴더를 생성하세요.
-    - [예시] 문서(Documents) 폴더에 **'Py_Viz'**라는 새로운 폴더를 생성합니다.
+    - [예시] 문서(Documents) 폴더에 'Py_Viz'라는 새로운 폴더를 생성합니다.
     - Windows : 'C:/Users/Username/Documents/Py_Viz'
     - MacOS : '/Users/Username/Documents/Py_Viz'
 
